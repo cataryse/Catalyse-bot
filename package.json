@@ -1,0 +1,12 @@
+{
+  "name": "Cataryse",
+  "version": "1.0.0",
+  "description": "Projet bot discord by Darkrile",
+  "main": "main.js",
+  "repository": "https://github.com/cataryse/Catalyse-bot.git",
+  "author": "Cataryse <rileyfalck1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
